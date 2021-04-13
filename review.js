@@ -4,7 +4,7 @@ Project Name : The Product Scrapper
 Author Name : Ashutosh Sidhar (GTBIT BATCH PEPCODING)
 Github Link : https://github.com/ashutoshsidhar/pephackathon/blob/master/review.js
 LinkedIn Profile : https://www.linkedin.com/in/ashutosh-sidhar-5a17b2106/
-Project Working Video : 
+Project Working Video : https://www.linkedin.com/posts/ashutosh-sidhar-5a17b2106_automation-project-webscraping-activity-6787833983846760448-rinj
 Description : This Project is basically a helping hand to users so that they can find the Products They Need
 On Different Websites and Provides the Price and Link For the Product to The User so that there price Comparing 
 Time is Saved. 
