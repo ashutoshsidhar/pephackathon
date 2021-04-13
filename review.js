@@ -2,8 +2,8 @@
 ===============================================================================================================
 Project Name : The Product Scrapper 
 Author Name : Ashutosh Sidhar (GTBIT BATCH PEPCODING)
-Github Link : 
-LinkedIn Profile :
+Github Link : https://github.com/ashutoshsidhar/pephackathon/blob/master/review.js
+LinkedIn Profile : https://www.linkedin.com/in/ashutosh-sidhar-5a17b2106/
 Project Working Video : 
 Description : This Project is basically a helping hand to users so that they can find the Products They Need
 On Different Websites and Provides the Price and Link For the Product to The User so that there price Comparing 
@@ -43,7 +43,7 @@ async function run(){
     await Flipkart.waitForSelector(".B_NuCI",{visisble:true});//waits till product price is visible
     let pnameFk = await Flipkart.$eval('.B_NuCI', el => el.innerText); //stores product name
     value[0] = await Flipkart.$eval('._30jeq3._16Jk6d', el => el.innerText); //stores price
-    console.log(portal[0] + " : "  + pnameFk +" : " + value[0]  + "Link: " + websites[0] + Fkurl); // Prints Website Name Product Name Price And Link
+    console.log(portal[0] + " : "  + pnameFk +" : " + value[0]  + " Link: " + websites[0] + Fkurl); // Prints Website Name Product Name Price And Link
     console.log("\n"); // Prints Empty Line
 
 
